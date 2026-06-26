@@ -36,7 +36,7 @@ UI/UX Designer
 ![Login](https://github.com/Atharv0090/Vexel-Online-Payments-App/blob/main/Login_screen.png?raw=true)
 
 ### Info Screen
-[![Info]https://github.com/Atharv0090/Vexel-Online-Payments-App/blob/main/Info_screen.png?raw=true](https://github.com/Atharv0090/Vexel-Online-Payments-App/blob/main/Info_screen.png?raw=true)
+![Info](https://github.com/Atharv0090/Vexel-Online-Payments-App/blob/main/Info_screen.png?raw=true)
 
 ### Home Screen
 ![Home](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Home_screen.png?raw=true)
