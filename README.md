@@ -4,7 +4,7 @@
 UI/UX Design of a futuristic online payments application created in Figma.
 
 ## Overview
-ZestGo is a modern food delivery application designed to provide a seamless food ordering experience.
+VEXEL is a modern fintech application designed to provide users with a seamless, secure, and intelligent digital payment experience. The app focuses on simplicity, speed, and premium visual aesthetics.
 
 
 ## My Role
@@ -17,11 +17,14 @@ UI/UX Designer
 
 
 ## Features
-- Restaurant Discovery
-- Search & Filter
-- Cart Management
-- Secure Checkout
-- Order Tracking
+- Digital Wallet Management
+- QR Code Payments
+- Send & Receive Money
+- Transaction History
+- Spending Insights & Analytics
+- Mobile & Utility Bill Payments
+- Savings & Loan Services
+- Refer & Earn Program
 
 
 ## Screens
@@ -52,8 +55,7 @@ UI/UX Designer
 
 
 ## Figma Prototype
-https://www.figma.com/design/CmXd6z6jSgZ5U5EQGgJzXU/Food-Delivery-App?node-id=0-1&t=WfmpwfxSbPNtaGfI-1
-
+https://www.figma.com/design/YgHlH2jHyyRa2SMaOdWe9B/Vexel-Online-Payments-App?node-id=0-1&t=MpMlFS8Q49RyncKl-1
 
 ## Designer
 Atharv Bagdure
