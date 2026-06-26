@@ -1,4 +1,4 @@
-![Cover](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Cover_png.png?raw=true)
+![Cover](https://github.com/Atharv0090/Vexel-Online-Payments-App/blob/main/Cover.png?raw=true)
 
 # Vexel-Online-Payments-App
 UI/UX Design of a futuristic online payments application created in Figma.
