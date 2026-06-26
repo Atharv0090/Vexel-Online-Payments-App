@@ -39,22 +39,14 @@ UI/UX Designer
 ![Info](https://github.com/Atharv0090/Vexel-Online-Payments-App/blob/main/Info_screen.png?raw=true)
 
 ### Home Screen
-![Home](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Home_screen.png?raw=true)
+![Home](https://github.com/Atharv0090/Vexel-Online-Payments-App/blob/main/Home_screen.png?raw=true)
 
-### Restaurant Screen
+### Insights Screen
 ![Restaurant](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Restaurant_screen.png?raw=true)
 
-### Cart Screen
-![Cart](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Cart_screen.png?raw=true)
+### Transaction History Screen
+![Transaction](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Cart_screen.png?raw=true)
 
-### Payment Screen
-![Payment](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Payment_screen.png?raw=true)
-
-### Tracking Screen
-![Tracking](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Tracking_screen.png?raw=true)
-
-### Profile Screen
-![Profile](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Profile_screen.png?raw=true)
 
 
 ## Figma Prototype
