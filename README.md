@@ -30,7 +30,7 @@ UI/UX Designer
 ## Screens
 
 ### Splash Screen
-![Splash](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Splash_screen.png?raw=true)
+![Splash](https://github.com/Atharv0090/Vexel-Online-Payments-App/blob/main/Splash_screen.png?raw=true)
 
 ### Login Screen
 ![Login](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Login_screen.png?raw=true)
