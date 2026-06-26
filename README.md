@@ -45,7 +45,7 @@ UI/UX Designer
 ![Insights](https://github.com/Atharv0090/Vexel-Online-Payments-App/blob/main/Insights_screen.png?raw=true)
 
 ### Transaction History Screen
-![Transaction](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Cart_screen.png?raw=true)
+![Transaction](https://github.com/Atharv0090/Vexel-Online-Payments-App/blob/main/Transaction_screen.png?raw=true)
 
 
 
